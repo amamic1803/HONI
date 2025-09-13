@@ -1,0 +1,11 @@
+9
+A A A
+A C C
+A A A
+A A A
+A A A
+A C C
+A A A
+A C C
+A A A
+C
